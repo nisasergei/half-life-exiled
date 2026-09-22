@@ -1,0 +1,17 @@
+# Временные файлы компиляторов GoldSrc (CSG, BSP, VIS, RAD)
+*.bsp
+*.pts
+*.prt
+*.wic
+*.log
+*.rad
+*.hsz
+
+# Резервные копии J.A.C.K. и Hammer
+*.bak
+*.autosave*
+
+# Системный мусор
+Thumbs.db
+Desktop.ini
+.DS_Store
