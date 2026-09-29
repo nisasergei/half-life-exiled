@@ -1,0 +1,8 @@
+game "Half-Life: Exiled"
+startmap "exiled_c1m1"
+trainmap "hazard"
+mpentity "info_player_deathmatch"
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls/hl.so"
+secure "1"
+type "singleplayer_only"
