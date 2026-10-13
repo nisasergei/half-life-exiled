@@ -2019,7 +2019,6 @@
 "changedelay" "0"
 "targetname" "exiled_c1m2"
 "map" "exiled_c1m2"
-"landmark" "landmark_c1m1_c1m2"
 {
 ( -1476 -2372 -448 ) ( -1476 -2372 -508 ) ( -1476 -2496 -448 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -1531 -2496 -448 ) ( -1531 -2496 -508 ) ( -1531 -2372 -448 ) AAATRIGGER [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
